@@ -2,3 +2,7 @@
 DP-750 workbooks
 
 https://github.com/MicrosoftLearning/DP-750T00-Implement-Data-Engineering-Solutions-using-Azure-Databricks/tree/main/Demo
+
+Achievement code
+
+https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=5435823&source=learn&redeem=PRKPDJ
