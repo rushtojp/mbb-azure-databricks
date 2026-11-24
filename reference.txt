@@ -6,3 +6,7 @@ https://github.com/MicrosoftLearning/DP-750T00-Implement-Data-Engineering-Soluti
 Achievement code
 
 https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=5435823&source=learn&redeem=PRKPDJ
+
+Microsoft Fabric vs Databricks vs Snowflake
+
+https://community.fabric.microsoft.com/blog/fbc_comm_blog/microsoft-fabric-vs-databricks-vs-snowflake-a-deep-comparison-of-modern-data-pla/5125800
