@@ -14,3 +14,7 @@ https://community.fabric.microsoft.com/blog/fbc_comm_blog/microsoft-fabric-vs-da
 Azure Databricks Documentation
 
 https://learn.microsoft.com/en-us/azure/databricks/
+
+AZ-700 networking documentation and labs
+
+https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/
