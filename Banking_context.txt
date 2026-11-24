@@ -1,1 +1,3 @@
+Azure Networking for Banking
 
+https://techcommunity.microsoft.com/blog/azureinfrastructureblog/building-secure-ai-platforms-in-banking-using-azure-enterprise-architecture/4517531
