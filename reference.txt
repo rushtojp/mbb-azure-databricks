@@ -10,3 +10,7 @@ https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_web
 Microsoft Fabric vs Databricks vs Snowflake
 
 https://community.fabric.microsoft.com/blog/fbc_comm_blog/microsoft-fabric-vs-databricks-vs-snowflake-a-deep-comparison-of-modern-data-pla/5125800
+
+Azure Databricks Documentation
+
+https://learn.microsoft.com/en-us/azure/databricks/
