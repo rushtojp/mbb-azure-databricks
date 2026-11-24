@@ -18,3 +18,7 @@ https://learn.microsoft.com/en-us/azure/databricks/
 AZ-700 networking documentation and labs
 
 https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/
+
+Azure databricks compute options and pricing
+
+https://azure.microsoft.com/en-us/pricing/details/databricks/#purchase-options
