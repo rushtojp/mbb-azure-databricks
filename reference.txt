@@ -22,3 +22,7 @@ https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-
 Azure databricks compute options and pricing
 
 https://azure.microsoft.com/en-us/pricing/details/databricks/#purchase-options
+
+Machine learning operations in azure databricks
+
+https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
