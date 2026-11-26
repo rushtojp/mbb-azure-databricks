@@ -23,6 +23,10 @@ Azure databricks compute options and pricing
 
 https://azure.microsoft.com/en-us/pricing/details/databricks/#purchase-options
 
+Data Migration to Azure Databricks
+
+https://learn.microsoft.com/en-us/azure/databricks/migration/
+
 Machine learning operations in azure databricks
 
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
