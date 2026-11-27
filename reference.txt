@@ -46,3 +46,7 @@ https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=azure%20datab
 Design and implement data modeling with Azure Databricks
 
 https://learn.microsoft.com/en-us/training/modules/design-implement-data-modeling-unity-catalog/
+
+Databricks solution accelarators for financial services
+
+https://www.databricks.com/solutions/accelerators?industry=Financial%20Services
