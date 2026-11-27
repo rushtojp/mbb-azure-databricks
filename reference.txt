@@ -30,3 +30,7 @@ https://learn.microsoft.com/en-us/azure/databricks/migration/
 Machine learning operations in azure databricks
 
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
+
+Azure databricks success stories in financial services
+
+https://www.microsoft.com/en-in/customers/search?filters=industry%3Afinancial-services&q=azure+databricks
