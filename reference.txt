@@ -38,3 +38,7 @@ https://www.microsoft.com/en-in/customers/search?filters=industry%3Afinancial-se
 Azure data architectures for financial services
 
 https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=azure%20databricks
+
+Design and implement data modeling with Azure Databricks
+
+https://learn.microsoft.com/en-us/training/modules/design-implement-data-modeling-unity-catalog/
