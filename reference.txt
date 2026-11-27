@@ -34,3 +34,7 @@ https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-
 Azure databricks success stories in financial services
 
 https://www.microsoft.com/en-in/customers/search?filters=industry%3Afinancial-services&q=azure+databricks
+
+Azure data architectures for financial services
+
+https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=azure%20databricks
